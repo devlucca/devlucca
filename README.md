@@ -3,7 +3,6 @@
 I'm a:
 * Python Developer
 * Golang Developer
-* JavaScript Developer
 
 I'm currently working at [RedVentures](https://redventures.com/). Here are some of my badges that I achieved during my time there:
 
