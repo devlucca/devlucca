@@ -1,4 +1,4 @@
-[Greetings](https://github.com/DevLucca/Devlucca/assets/greetings.gif)
+[Greetings](https://github.com/DevLucca/DevLucca/blob/main/assets/greetings.gif)
 
 ### Hi there 👋, my name is Lucca
 
