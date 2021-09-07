@@ -1,4 +1,6 @@
-[Greetings](https://github.com/DevLucca/DevLucca/blob/main/assets/greetings.gif)
+<div align="center">
+    <img src="assets/greetings.gif" align="center" height="" width="500" />
+</div>
 
 ### Hi there 👋, my name is Lucca
 
