@@ -1,3 +1,5 @@
+[Greetings](https://github.com/DevLucca/Devlucca/assets/greetings.gif)
+
 ### Hi there 👋, my name is Lucca
 
 I'm a:
