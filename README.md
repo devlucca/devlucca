@@ -13,7 +13,7 @@
     </a>
 </p>
 
-- 🔭 Currently working on: [@RedVentures](https://redventures.com/)
+- 🔭 Currently working [@RedVentures](https://redventures.com/)
 - 💻 Currently learning: [Golang](https://golang.org/), [Python](https://www.python.org/), [Docker](https://www.docker.com/), [CircleCI](https://circleci.com/), [AWS](https://aws.amazon.com/)
 
 ## My Skill Set
