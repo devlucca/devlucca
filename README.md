@@ -46,6 +46,7 @@
         <tr>
             <td>
                 <div align="center">
+                    <h3>Github</h3>
                     <img height="100px" src="https://codinhood.com/images/articles/octocat-sprite/octocat-up-down.gif" alt="Github"/>
                 </div>
             </td>
@@ -56,6 +57,7 @@
         <tr>
             <td>
                 <div align="center">
+                    <h3>Golang</h3>
                     <img height="100px" src="https://camo.githubusercontent.com/3c553beb641d154ec09f3f1cce78f434eb72a9b2843dc45e5aa191cc6234b383/687474703a2f2f7374617469632e76656c76657463616368652e6f72672f70616765732f323031382f30362f31332f70617274792d676f706865722f64616e63696e672d676f706865722e676966" alt="Golang"/>
                 </div>
             </td>
@@ -66,6 +68,7 @@
         <tr>
             <td>
                 <div align="center">
+                    <h3>Python</h3>
                     <img height="100px" src="https://media.giphy.com/media/gG9fVWJdN41NeiHhzk/giphy.gif" alt="Python"/>
                 </div>
             </td>
@@ -76,6 +79,7 @@
         <tr>
             <td>
                 <div align="center">
+                    <h3>Docker</h3>
                     <img height="100px" src="https://media4.giphy.com/media/j5tLmPI8kTdWhDsw0c/giphy.gif?cid=6c09b9522lpy727ylwjmwwhnx6kyxfrxd1itkgf06v9zis5c&rid=giphy.gif&ct=s" alt="Docker"/>
                 </div>
             </td>
@@ -86,6 +90,7 @@
         <tr>
             <td>
                 <div align="center">
+                    <h3>AWS</h3>
                     <img height="100px" src="https://techcrunch.com/wp-content/uploads/2021/12/aws-logo-glitch.gif?w=730&crop=1" alt="amazon web services"/>
                 </div>
             </td>
