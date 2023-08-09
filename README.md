@@ -1,17 +1,3 @@
-<style>
-    table:nth-of-type(1) {
-        display:table;
-        width:50%;
-    }
-    table:nth-of-type(1) th:nth-of-type(2) {
-        width:30%;
-    }
-    
-    img {
-        align:center;
-    }
-</style>
-
 <div align="center">
     <img src="public/greetings.gif" align="center" height="" width="500" />
 </div>
