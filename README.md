@@ -3,7 +3,7 @@
 </div>
 
 ---
-# <div align="center"> > Lucca Marques | DevLucca | Luquita | s1lent < </p>
+# <div align="center"> > Lucca Marques | Wyreyx | Luquita | s1lent < </p>
 
 ## > git fetch me
 <div align="center" width="300">
