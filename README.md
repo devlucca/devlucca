@@ -3,11 +3,11 @@
 </div>
 
 ---
-# <div align="center"> > Lucca Marques | Wyreyx | Luquita | s1lent < </p>
+# <div align="center"> > Lucca Marques | lccmrx | Luquita | s1lent < </p>
 
 ## > git fetch me
 <div align="center" width="300">
-    Hi, I'm <b>Lucca Marques</b>! I'm a 23 years old software developer!
+    Hi, I'm <b>Lucca Marques</b>! I'm a 24 years old software developer!
     </br>
     Always interested in getting better in what I love doing, that is programming! 💻❤️
     </br>
