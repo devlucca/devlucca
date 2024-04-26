@@ -7,18 +7,18 @@
 
 ## > git fetch me
 <div align="center" width="300">
-    Hi, I'm <b>Lucca Marques</b>! I'm a 24 years old software developer!
+    Hi, I'm <b>Lucca Marques</b>! A 24 yo brazilian software developer!
     </br>
-    Always interested in getting better in what I love doing, that is programming! 💻❤️
+    Always interested in getting better in what I love doing, programming! 💻❤️
     </br>
-    I'm always learning something in the tech area, but I'm also learning French!
+    I'm always learning something in the tech area, but I'm also into languages, currently I'm learning French!
     </br>
     🇫🇷 Je peux parler un peu de français sans aucun problème! 🇫🇷
 </div>
 </br>
 
-- 🔭 Currently working @ [RedVentures](https://redventures.com/)
-- 💻 Currently learning: [Golang](https://golang.org/), [Python](https://www.python.org/), [Docker](https://www.docker.com/), [CircleCI](https://circleci.com/), [AWS](https://aws.amazon.com/)
+- 🔭 Currently working @ [Mercado Livre](https://mercadolivre.com.br)
+- 💻 Currently learning: [Golang](https://golang.org/), [K8S](https://kubernetes.io/), [AWS](https://aws.amazon.com/), DDD, Clean Arc, Dynamic Programming, and so on!
 
 ## > git fetch links
 <p align="center">
